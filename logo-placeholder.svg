@@ -1,0 +1,22 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="160" rx="38" fill="url(#paint0_linear_1_2)"/>
+  <rect x="18" y="18" width="124" height="124" rx="28" stroke="rgba(255,255,255,0.24)" stroke-width="2"/>
+  <circle cx="52" cy="58" r="15" fill="rgba(255,255,255,0.14)"/>
+  <circle cx="108" cy="92" r="18" fill="rgba(255,255,255,0.10)"/>
+  <path d="M48 60C48 52.268 54.268 46 62 46H82C97.464 46 110 58.536 110 74V78C110 84.627 104.627 90 98 90H80C74.477 90 70 94.477 70 100V104H48V60Z" fill="white" fill-opacity="0.9"/>
+  <path d="M94 46H104C112.837 46 120 53.163 120 62V69C120 77.837 112.837 85 104 85H94V46Z" fill="url(#paint1_linear_1_2)"/>
+  <path d="M48 111H112V117C112 122.523 107.523 127 102 127H58C52.477 127 48 122.523 48 117V111Z" fill="white" fill-opacity="0.55"/>
+  <text x="80" y="104" text-anchor="middle" fill="white" font-size="12" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="1.5">HILLEL</text>
+  <text x="80" y="120" text-anchor="middle" fill="white" font-size="9" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2.5">DAHAN</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="18" y1="18" x2="142" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EA8FF"/>
+      <stop offset="0.5" stop-color="#7A7DFF"/>
+      <stop offset="1" stop-color="#9A68FF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_1_2" x1="94" y1="46" x2="120" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4E6FF"/>
+      <stop offset="1" stop-color="#E9D7FF"/>
+    </linearGradient>
+  </defs>
+</svg>
